@@ -1,2 +1,2 @@
-FROM python3.12
+FROM python:3.9-slim
 RUN ["python", "--version"]
